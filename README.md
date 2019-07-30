@@ -7,7 +7,7 @@ Python, Matlab, C, C++ , anything can be used to design this system, there was n
 What i did was using Matlab which is the most familiar to me.
 In November 2018, i was travelling in Shenzhen, China. A part of my programme was sold for a Japanese company in China HI-TECH fair. For some reasons, I won't put them in this page (Denosing and Tracking). There are many methods can be used to recognize. In this place, the methods used were written in comment. No worries for the denosing and tracking part, because i put some other algorithms instead of the losing part in this program. Hopefully they can run without any errors. For the test, more than 50 times different background were chosen to support the system, but no test for the reworte part for personal time reasons.
 
-
+You probably dont need all the mfiles, but the slider(select a threshold section) and main file must be used.
 When you use the system, some settings MUST BE DONE before your start:
 1. choose and set cammera.
 2. make sure the background environment is as good as possible.
